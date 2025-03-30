@@ -1,0 +1,1 @@
+GEN_CSRCS += _power_005_alpha_128x128.c _right_003_alpha_32x64.c _fingerprint_006_alpha_128x128.c _left_003_alpha_32x64.c _reset_007_alpha_128x128.c _setup_001_alpha_128x128.c _CPU_002_alpha_128x128.c _CPU_fan_001_alpha_128x128.c _fan_001_alpha_128x128.c _up_001_alpha_64x32.c _fingerprint_006_alpha_48x48.c
